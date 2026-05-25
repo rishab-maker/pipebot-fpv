@@ -1,19 +1,5 @@
----
+May 25th - I almost finished the basic hardware part of PipeBot FPV and started working on the coding section.
 
-##  Project Status
- Planning Stage  
- Idea finalized  
- Hardware building next  
+Today I tested the ESP32 WiFi control idea, where the ESP32 creates its own WiFi network and opens a webpage for controlling the robot. I also started adding forward, backward, left, right, and stop controls for the motor driver.
 
----
-
-##  Future Work
-- Add circuit diagram  
-- Build chassis  
-- Implement FPV system  
-- Upload testing videos  
-
----
-
-##  Author
-Rishab – Student Developer & Hardware Enthusiast
+The current prototype is still basic, but now the project is moving from just hardware assembly into actual control and testing. Next I will test the motors with the L298N driver, improve the wiring, and document the camera setup.
